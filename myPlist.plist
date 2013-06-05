@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ackee</key>
+  <string>Ackee</string>
+
+  <key>faith</key>
+  <string>fides</string>
+
+  <key>hope</key>
+  <string>spes</string>
+
+  <key>love</key>
+  <string>caritas</string>
+
+</dict>
+</plist>
